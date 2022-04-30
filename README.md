@@ -4,6 +4,6 @@
 
 차후에 시간이 되면 내가 아닌 다른 사용자들도 GUI 환경을 통해 키 설정을 할 수 있도록 개발할 예정.
 
-## 사용한 라이브러리
+### 사용한 라이브러리
 - Virtual Gamepad Emulation Framework
 - SharpDX
