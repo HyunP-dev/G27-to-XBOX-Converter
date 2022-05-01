@@ -1,4 +1,4 @@
-# Logitech G27 to XBOX Converter
+# Logitech G27 to XBOX Controller Converter
 
 로지텍 G27이 생겨서 게임을 하려고 했으나 해당 게임에서 지원을 제대로 해주지 않아 내가 쓸려고 후딱 만들게 된 G27를 XBOX 컨트롤러로 인식시켜주는 프로그램.
 
